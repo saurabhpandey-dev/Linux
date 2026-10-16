@@ -1,0 +1,3 @@
+Command: df
+Example: df -h
+Description: Displays total, used, and available disk space on mounted file systems in human-readable format.
