@@ -1,0 +1,3 @@
+Command: free
+Example: free -h
+Description: Displays total, used, and available RAM and swap memory in human-readable format.
