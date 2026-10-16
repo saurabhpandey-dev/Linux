@@ -1,0 +1,3 @@
+Command: mkdir
+Example: mkdir -p project/src
+Description: Creates a new directory, along with any necessary parent directories if using the -p flag.
