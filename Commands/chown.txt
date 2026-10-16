@@ -1,0 +1,3 @@
+Command: chown
+Example: chown user:group file.txt
+Description: Changes the owner and group ownership of a specified file or directory.
