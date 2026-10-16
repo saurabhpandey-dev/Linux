@@ -1,0 +1,3 @@
+Command: head
+Example: head -n 10 file.txt
+Description: Outputs the first few lines of a file to the terminal screen.
