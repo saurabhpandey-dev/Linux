@@ -1,0 +1,3 @@
+Command: nano
+Example: nano config.conf
+Description: Opens a simple, user-friendly command-line text editor to view or modify files.
