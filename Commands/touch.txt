@@ -1,0 +1,3 @@
+Command: touch
+Example: touch index.html
+Description: Creates a new empty file or updates the timestamp of an existing file.
