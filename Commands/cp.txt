@@ -1,0 +1,3 @@
+Command: cp
+Example: cp -r source_dir/ target_dir/
+Description: Copies files or directories from one location to another.
