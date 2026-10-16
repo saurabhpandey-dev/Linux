@@ -1,0 +1,3 @@
+Command: rm
+Example: rm -rf temp_folder
+Description: Permanently deletes files or directories from the system.
