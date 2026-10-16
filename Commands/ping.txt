@@ -1,0 +1,3 @@
+Command: ping
+Example: ping -c 4 google.com
+Description: Tests network connectivity between the local system and a remote host.
