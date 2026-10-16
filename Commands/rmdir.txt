@@ -1,0 +1,3 @@
+Command: rmdir
+Example: rmdir empty_folder
+Description: Removes an empty directory from the file system.
