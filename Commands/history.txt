@@ -1,0 +1,3 @@
+Command: history
+Example: history | grep "git"
+Description: Lists previously executed terminal commands stored in the shell history file.
