@@ -1,0 +1,3 @@
+Command: top
+Example: top
+Description: Displays real-time, dynamic information about active system processes, CPU, and memory usage.
