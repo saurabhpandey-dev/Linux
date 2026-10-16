@@ -1,0 +1,3 @@
+Command: grep
+Example: grep -rn "ERROR" /var/log/
+Description: Searches for a specified text pattern inside files or directories recursively.
