@@ -1,0 +1,3 @@
+Command: ls
+Example: ls -la
+Description: Lists all files and directories in the current folder, including hidden files with detailed attributes.
