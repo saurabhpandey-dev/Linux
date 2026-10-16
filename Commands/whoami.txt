@@ -1,0 +1,3 @@
+Command: whoami
+Example: whoami
+Description: Displays the username of the currently logged-in effective user in the terminal.
