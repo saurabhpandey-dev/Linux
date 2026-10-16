@@ -1,0 +1,3 @@
+Command: mv
+Example: mv old_name.txt new_name.txt
+Description: Moves or renames files and directories.
