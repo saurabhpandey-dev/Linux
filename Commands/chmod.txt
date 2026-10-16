@@ -1,0 +1,3 @@
+Command: chmod
+Example: chmod 755 script.sh
+Description: Modifies the read, write, and execute permissions of a file or directory.
