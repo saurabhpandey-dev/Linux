@@ -1,0 +1,3 @@
+Command: ps
+Example: ps aux
+Description: Displays information about currently running processes on the system.
