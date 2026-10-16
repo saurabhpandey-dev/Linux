@@ -1,0 +1,3 @@
+Command: find
+Example: find /home -name "*.pdf"
+Description: Searches for files and directories in a directory hierarchy based on specific criteria like name or type.
