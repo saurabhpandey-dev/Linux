@@ -1,0 +1,3 @@
+Command: cd
+Example: cd /var/www/html
+Description: Changes the current working directory to the specified path.
