@@ -1,0 +1,3 @@
+Command: sort
+Example: sort -r filename.txt
+Description: Sorts lines of text files alphabetically or numerically in ascending or descending order.
