@@ -1,0 +1,3 @@
+Command: netstat
+Example: netstat -tuln
+Description: Displays active network connections, routing tables, and listening ports.
