@@ -1,0 +1,3 @@
+Command: umount
+Example: umount /mnt
+Description: Detaches a mounted filesystem from the system directory tree.
