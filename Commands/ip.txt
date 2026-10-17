@@ -1,0 +1,3 @@
+Command: ip
+Example: ip a
+Description: Shows and manipulates routing, network devices, interfaces, and tunnels.
