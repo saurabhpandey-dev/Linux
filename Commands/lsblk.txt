@@ -1,0 +1,3 @@
+Command: lsblk
+Example: lsblk -f
+Description: Lists information about all available or specified block storage devices.
