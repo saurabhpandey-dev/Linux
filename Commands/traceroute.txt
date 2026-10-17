@@ -1,0 +1,3 @@
+Command: traceroute
+Example: traceroute google.com
+Description: Tracks the network path and transit delays packets take across an IP network.
