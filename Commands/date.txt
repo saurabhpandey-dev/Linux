@@ -1,0 +1,3 @@
+Command: date
+Example: date "+%Y-%m-%d %H:%M:%S"
+Description: Displays or sets the system's current date and time in custom formats.
