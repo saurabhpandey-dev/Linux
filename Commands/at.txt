@@ -1,0 +1,3 @@
+Command: at
+Example: at 10:00 AM tomorrow
+Description: Schedules a single command or script to run once at a specified future time.
